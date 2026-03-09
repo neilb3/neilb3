@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! 👋 I'm Neil Gokul Bhutada
+# Hey there! 👋 I'm Neil  Bhutada
 
 ### 🚀 Machine Learning Engineer | Data Scientist | Full-Stack AI Developer
 
