@@ -20,29 +20,29 @@
 Data Scientist with 2+ years of industry experience building production AI systems at Quantiphi, with research experience in NLP and LLM applications at Indiana University Bloomington.
 
 - 🎓 **MS Data Science** @ Indiana University Bloomington
-- 💼 **Ex-Data Scientist @ Quantiphi** — production AI for Bayer and USCIS
-- 📄 **Published Researcher** — IEEE & Springer
-- ☁️ **Google Cloud Certified** — Associate Cloud Engineer & Data Engineer
-- 🏆 **1st Place** — Company-wide AI Innovation Competition (50 teams, 250+ participants)
+- 💼 **Ex-Data Scientist @ Quantiphi** - production AI for Bayer and USCIS
+- 📄 **Published Researcher** - IEEE & Springer
+- ☁️ **Google Cloud Certified** - Associate Cloud Engineer & Data Engineer
+- 🏆 **1st Place** - Company-wide AI Innovation Competition (50 teams, 250+ participants)
 - 🔍 Currently looking for full-time roles in Data Science, ML Engineering, or AI Engineering
 
 ---
 
 ## Experience
 
-**🔬 Research Assistant** — Indiana University Bloomington *(Dec 2025 – Present)*
+**🔬 Research Assistant** - Indiana University Bloomington *(Dec 2025 – Present)*
 > End-to-end speaker diarization and content rating pipeline using Demucs, Pyannote, Whisper ASR, and RAG-based speaker identification across a 2TB dataset of 600+ files. Achieved 93.1% transcription accuracy and 94.4% speaker classification accuracy. Eliminated 100% of laugh-track artifacts and reduced unknown speaker labels by 99%.
 
-**🧬 Research Assistant, Bioinformatics** — Indiana University Bloomington *(Nov 2024 – Nov 2025)*
+**🧬 Research Assistant, Bioinformatics** - Indiana University Bloomington *(Nov 2024 – Nov 2025)*
 > RAG pipelines using ClinicalBERT, GPT-4, and Claude Opus across 10,000+ clinical documents, reducing physician review time by 30%. Fine-tuned transformer models for biomedical NER achieving 95% accuracy across 500+ clinical reports.
 
-**🤖 Data Scientist** — Quantiphi *(Jun 2022 – Aug 2023)*
+**🤖 Data Scientist** - Quantiphi *(Jun 2022 – Aug 2023)*
 > Built production LLM pipelines for Bayer radiology workflows and USCIS documentation automation saving 10,000+ hours monthly with 96% accuracy. Developed ML-driven scheduling optimization improving operational efficiency by 40%. Won 1st place among 50 teams in a company-wide AI innovation competition.
 
-**💻 Data Scientist Intern** — Unisight Technology *(Jul 2021 – Dec 2021)*
+**💻 Data Scientist Intern** - Unisight Technology *(Jul 2021 – Dec 2021)*
 > Built a full-stack Python/Django website with a deep learning translation bot driving 40% engagement increase. Constructed a Power BI dashboard improving profits by 30% and cutting spending by 20%.
 
-**🤝 Data Scientist Intern** — Profcess *(Jan 2021 – Jun 2021)*
+**🤝 Data Scientist Intern** - Profcess *(Jan 2021 – Jun 2021)*
 > Developed a deep learning recommendation system and recruitment chatbot improving hiring efficiency by 15%.
 
 ---
@@ -101,7 +101,7 @@ Data Scientist with 2+ years of industry experience building production AI syste
 ## Publications
 
 📝 **A Survey: Extraction of River Networks from Satellite Images**
-*Springer Nature Singapore — ICT Analysis and Applications, 2022*
+*Springer Nature Singapore - ICT Analysis and Applications, 2022*
 
 📝 **Extraction of River Networks from Satellite Images using Image Processing & Deep Learning Techniques**
 *IEEE ASSIC Conference, 2022*
@@ -114,7 +114,7 @@ Data Scientist with 2+ years of industry experience building production AI syste
 |--------------|--------|
 | ☁️ Google Cloud Associate Cloud Engineer | Google |
 | ☁️ Google Cloud Professional Data Engineer | Google |
-| 🏆 1st Place — AI Innovation Competition (50 teams, 250+ participants) | Quantiphi |
+| 🏆 1st Place - AI Innovation Competition (50 teams, 250+ participants) | Quantiphi |
 | 📜 40+ Professional AI Certifications | Coursera, DataCamp, Udemy |
 
 ---
@@ -123,7 +123,7 @@ Data Scientist with 2+ years of industry experience building production AI syste
 
 > *"Mentoring Neil at Quantiphi was one of the more rewarding experiences I've had. Neil demonstrated strong fundamentals across data science, ML engineering, and analytics, with hands-on contributions to EDA, feature engineering, and building ML solutions on large healthcare datasets. He also brought real value to NLP and LLM-based workflows, adapting quickly to new challenges."*
 >
-> **— Ashwinkumar Jayagopi**, Generative AI Engineer @ PwC | Ex-Quantiphi
+> **- Ashwinkumar Jayagopi**, Generative AI Engineer @ PwC | Ex-Quantiphi
 
 ---
 
